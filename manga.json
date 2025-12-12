@@ -1,0 +1,213 @@
+{
+  "manga": {
+    "title": "Gotou-san wa Furimukasetai!",
+    "alternativeTitle": "後藤さんは振り向かせたい",
+    "cover": "",
+    "description": "Aku ingin dia menyadari perasaan cintaku ini! Si cantik nomor satu di sekolah, Goto-san, suka sekali usil dan mengganggu Maeda-kun yang duduk di depannya. Di balik semua itu ada perasaan cinta terpendam milik Goto-san, namun… Maeda-kun yang tidak percaya diri sama sekali tidak menangkap maksud Goto-san. Akankah cinta tulus Goto-san menemukan akhirnya?",
+    "author": "Mikipon",
+    "artist": "Mikipon",
+    "genre": [
+      "Shounen",
+      "Drama",
+      "Comedy",
+      "Romance",
+      "School Life",
+      "Slice of Life"
+    ],
+    "status": "HIATUS",
+    "views": 0,
+    "links": {
+      "mangadex": "https://mangadex.org/title/caa197bb-990e-4f59-bc6f-f20e42015d01/gotou-san-wa-furimukasetai",
+      "raw": "https://bookwalker.jp/series/310103/list/"
+    },
+    "repoUrl": "https://raw.githubusercontent.com/nurananto/Gotou-san/main/",
+    "imagePrefix": "Image",
+    "imageFormat": "webp",
+    "lockedChapters": [],
+    "type": "manga"
+  },
+  "chapters": {
+    "16": {
+      "title": "Chapter 16",
+      "chapter": 16,
+      "folder": "16",
+      "uploadDate": "2025-12-12T22:53:17+07:00",
+      "totalPages": 18,
+      "pages": 18,
+      "locked": false,
+      "views": 0
+    },
+    "17": {
+      "title": "Chapter 17",
+      "chapter": 17,
+      "folder": "17",
+      "uploadDate": "2025-12-12T22:53:17+07:00",
+      "totalPages": 23,
+      "pages": 23,
+      "locked": false,
+      "views": 0
+    },
+    "18": {
+      "title": "Chapter 18",
+      "chapter": 18,
+      "folder": "18",
+      "uploadDate": "2025-12-12T22:53:17+07:00",
+      "totalPages": 15,
+      "pages": 15,
+      "locked": false,
+      "views": 0
+    },
+    "19": {
+      "title": "Chapter 19",
+      "chapter": 19,
+      "folder": "19",
+      "uploadDate": "2025-12-12T22:53:17+07:00",
+      "totalPages": 19,
+      "pages": 19,
+      "locked": false,
+      "views": 0
+    },
+    "20": {
+      "title": "Chapter 20",
+      "chapter": 20,
+      "folder": "20",
+      "uploadDate": "2025-12-12T22:53:17+07:00",
+      "totalPages": 22,
+      "pages": 22,
+      "locked": false,
+      "views": 0
+    },
+    "21": {
+      "title": "Chapter 21",
+      "chapter": 21,
+      "folder": "21",
+      "uploadDate": "2025-12-12T22:53:17+07:00",
+      "totalPages": 18,
+      "pages": 18,
+      "locked": false,
+      "views": 0
+    },
+    "22": {
+      "title": "Chapter 22",
+      "chapter": 22,
+      "folder": "22",
+      "uploadDate": "2025-12-12T22:53:17+07:00",
+      "totalPages": 28,
+      "pages": 28,
+      "locked": false,
+      "views": 0
+    },
+    "23": {
+      "title": "Chapter 23",
+      "chapter": 23,
+      "folder": "23",
+      "uploadDate": "2025-12-12T22:53:17+07:00",
+      "totalPages": 15,
+      "pages": 15,
+      "locked": false,
+      "views": 0
+    },
+    "24": {
+      "title": "Chapter 24",
+      "chapter": 24,
+      "folder": "24",
+      "uploadDate": "2025-12-12T22:53:17+07:00",
+      "totalPages": 18,
+      "pages": 18,
+      "locked": false,
+      "views": 0
+    },
+    "25": {
+      "title": "Chapter 25",
+      "chapter": 25,
+      "folder": "25",
+      "uploadDate": "2025-12-12T22:53:17+07:00",
+      "totalPages": 18,
+      "pages": 18,
+      "locked": false,
+      "views": 0
+    },
+    "26": {
+      "title": "Chapter 26",
+      "chapter": 26,
+      "folder": "26",
+      "uploadDate": "2025-12-12T22:53:17+07:00",
+      "totalPages": 17,
+      "pages": 17,
+      "locked": false,
+      "views": 0
+    },
+    "27": {
+      "title": "Chapter 27",
+      "chapter": 27,
+      "folder": "27",
+      "uploadDate": "2025-12-12T22:53:17+07:00",
+      "totalPages": 19,
+      "pages": 19,
+      "locked": false,
+      "views": 0
+    },
+    "20.5": {
+      "title": "Chapter 20.5",
+      "chapter": 20.5,
+      "folder": "20.5",
+      "uploadDate": "2025-12-12T22:53:17+07:00",
+      "totalPages": 3,
+      "pages": 3,
+      "locked": false,
+      "views": 0
+    },
+    "27.5": {
+      "title": "Chapter 27.5",
+      "chapter": 27.5,
+      "folder": "27.5",
+      "uploadDate": "2025-12-12T22:53:17+07:00",
+      "totalPages": 4,
+      "pages": 4,
+      "locked": false,
+      "views": 0
+    },
+    "27.6": {
+      "title": "Chapter 27.6",
+      "chapter": 27.6,
+      "folder": "27.6",
+      "uploadDate": "2025-12-12T22:53:17+07:00",
+      "totalPages": 1,
+      "pages": 1,
+      "locked": false,
+      "views": 0
+    },
+    "27.7": {
+      "title": "Chapter 27.7",
+      "chapter": 27.7,
+      "folder": "27.7",
+      "uploadDate": "2025-12-12T22:53:17+07:00",
+      "totalPages": 1,
+      "pages": 1,
+      "locked": false,
+      "views": 0
+    },
+    "27.8": {
+      "title": "Chapter 27.8",
+      "chapter": 27.8,
+      "folder": "27.8",
+      "uploadDate": "2025-12-12T22:53:17+07:00",
+      "totalPages": 1,
+      "pages": 1,
+      "locked": false,
+      "views": 0
+    },
+    "27.9": {
+      "title": "Chapter 27.9",
+      "chapter": 27.9,
+      "folder": "27.9",
+      "uploadDate": "2025-12-12T22:53:17+07:00",
+      "totalPages": 1,
+      "pages": 1,
+      "locked": false,
+      "views": 0
+    }
+  },
+  "lastUpdated": "2025-12-12T22:54:03+07:00",
+  "lastChapterUpdate": "2025-12-12T22:53:17+07:00"
+}
