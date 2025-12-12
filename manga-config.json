@@ -1,0 +1,29 @@
+{
+  "type": "manga",
+  "title": "Gotou-san wa Furimukasetai!",
+  "alternativeTitle": "後藤さんは振り向かせたい",
+  "cover": "",
+  "description": "Aku ingin dia menyadari perasaan cintaku ini! Si cantik nomor satu di sekolah, Goto-san, suka sekali usil dan mengganggu Maeda-kun yang duduk di depannya. Di balik semua itu ada perasaan cinta terpendam milik Goto-san, namun… Maeda-kun yang tidak percaya diri sama sekali tidak menangkap maksud Goto-san. Akankah cinta tulus Goto-san menemukan akhirnya?",
+  "author": "Mikipon",
+  "artist": "Mikipon",
+  "genre": [
+    "Shounen",
+    "Drama",
+    "Comedy",
+    "Romance",
+    "School Life",
+    "Slice of Life"
+  ],
+  "status": "HIATUS",
+  "endChapter": null,
+  "views": 0,
+  "links": {
+    "mangadex": "https://mangadex.org/title/caa197bb-990e-4f59-bc6f-f20e42015d01/gotou-san-wa-furimukasetai",
+    "raw": "https://bookwalker.jp/series/310103/list/"
+  },
+  "repoOwner": "nurananto",
+  "repoName": "Gotou-san",
+  "imagePrefix": "Image",
+  "imageFormat": "webp",
+  "lockedChapters": []
+}
