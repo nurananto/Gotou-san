@@ -3,9 +3,11 @@
   "upload_date": "2025-12-12 22:49:18",
   "total_pages": 4,
   "pages": [
-    "https://cdn.nuranantoscans.my.id/Gotou-san/27.5/Image01.webp",
-    "https://cdn.nuranantoscans.my.id/Gotou-san/27.5/Image02.webp",
-    "https://cdn.nuranantoscans.my.id/Gotou-san/27.5/Image03.webp",
-    "https://cdn.nuranantoscans.my.id/Gotou-san/27.5/Image04.webp"
-  ]
+    "66b7c6088166504dd711d2a3825e4091:5b14739d9e5956bef3886cded114224670d3458e9869d0086ec0cb7bf2aade0ed549945b3414682500589ab411049e7d22db44ded0825149426cc2a7fb6feaa0",
+    "0f07c2965f398669a9440d15115be896:eb4d84b54dc3cc6e88b1dbc6973e7188a24e57326572448c37e2df0045d327b1df605976925da9da7fb3c0f0fe0c176767b2ddf1b29c77fe2ef4aa983885eabb",
+    "90aa36580962bdcb8c9fd78206ccb178:0f6c4add2e940a41f68ddc9f2a7955f7a41e19bc5470c57e37fe881eae2213a968b580d50e5327f50d94143912648eca78a6cd249f4be53fc126420c8953e298",
+    "f0b572d3c45f090ca70e0b29730b1f02:bf484cf45d7cf9008f8075edcdd8c6fe87ffd902a03acc6e45867a5f980c85580aff6c66e950c96f616539382d735f2178405f0a2b016d52e3ad4e1cbe4c25c9"
+  ],
+  "encrypted": true,
+  "encryption_version": "1.0"
 }
