@@ -15,7 +15,7 @@
       "Slice of Life"
     ],
     "status": "HIATUS",
-    "views": 11,
+    "views": 50,
     "links": {
       "mangadex": "https://mangadex.org/title/caa197bb-990e-4f59-bc6f-f20e42015d01/gotou-san-wa-furimukasetai",
       "raw": "https://bookwalker.jp/series/310103/list/"
@@ -35,7 +35,7 @@
       "totalPages": 18,
       "pages": 18,
       "locked": false,
-      "views": 0
+      "views": 9
     },
     "17": {
       "title": "Chapter 17",
@@ -75,7 +75,7 @@
       "totalPages": 22,
       "pages": 22,
       "locked": false,
-      "views": 0
+      "views": 1
     },
     "21": {
       "title": "Chapter 21",
@@ -85,7 +85,7 @@
       "totalPages": 18,
       "pages": 18,
       "locked": false,
-      "views": 0
+      "views": 2
     },
     "22": {
       "title": "Chapter 22",
@@ -105,7 +105,7 @@
       "totalPages": 15,
       "pages": 15,
       "locked": false,
-      "views": 0
+      "views": 2
     },
     "24": {
       "title": "Chapter 24",
@@ -115,7 +115,7 @@
       "totalPages": 18,
       "pages": 18,
       "locked": false,
-      "views": 0
+      "views": 2
     },
     "25": {
       "title": "Chapter 25",
@@ -125,7 +125,7 @@
       "totalPages": 18,
       "pages": 18,
       "locked": false,
-      "views": 0
+      "views": 2
     },
     "26": {
       "title": "Chapter 26",
@@ -135,7 +135,7 @@
       "totalPages": 17,
       "pages": 17,
       "locked": false,
-      "views": 0
+      "views": 2
     },
     "27": {
       "title": "Chapter 27",
@@ -145,7 +145,7 @@
       "totalPages": 19,
       "pages": 19,
       "locked": false,
-      "views": 0
+      "views": 7
     },
     "20.5": {
       "title": "Chapter 20.5",
@@ -157,6 +157,16 @@
       "locked": false,
       "views": 0
     },
+    "27.10": {
+      "title": "Chapter 27.10",
+      "chapter": 27.1,
+      "folder": "27.10",
+      "uploadDate": "2025-12-13T18:48:16+07:00",
+      "totalPages": 4,
+      "pages": 4,
+      "locked": false,
+      "views": 0
+    },
     "27.5": {
       "title": "Chapter 27.5",
       "chapter": 27.5,
@@ -165,7 +175,7 @@
       "totalPages": 4,
       "pages": 4,
       "locked": false,
-      "views": 0
+      "views": 3
     },
     "27.6": {
       "title": "Chapter 27.6",
@@ -175,7 +185,7 @@
       "totalPages": 1,
       "pages": 1,
       "locked": false,
-      "views": 1
+      "views": 5
     },
     "27.7": {
       "title": "Chapter 27.7",
@@ -185,7 +195,7 @@
       "totalPages": 1,
       "pages": 1,
       "locked": false,
-      "views": 1
+      "views": 7
     },
     "27.8": {
       "title": "Chapter 27.8",
@@ -195,7 +205,7 @@
       "totalPages": 1,
       "pages": 1,
       "locked": false,
-      "views": 1
+      "views": 11
     },
     "27.9": {
       "title": "Chapter 27.9",
@@ -205,9 +215,9 @@
       "totalPages": 1,
       "pages": 1,
       "locked": false,
-      "views": 2
+      "views": 19
     }
   },
-  "lastUpdated": "2025-12-13T00:14:07+07:00",
-  "lastChapterUpdate": "2025-12-12T22:53:17+07:00"
+  "lastUpdated": "2025-12-13T18:49:08+07:00",
+  "lastChapterUpdate": "2025-12-13T18:48:16+07:00"
 }
