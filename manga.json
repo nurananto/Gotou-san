@@ -15,7 +15,7 @@
       "Slice of Life"
     ],
     "status": "HIATUS",
-    "views": 100,
+    "views": 120,
     "links": {
       "mangadex": "https://mangadex.org/title/caa197bb-990e-4f59-bc6f-f20e42015d01/gotou-san-wa-furimukasetai",
       "raw": "https://bookwalker.jp/series/310103/list/"
@@ -35,7 +35,7 @@
       "totalPages": 18,
       "pages": 18,
       "locked": false,
-      "views": 17
+      "views": 25
     },
     "17": {
       "title": "Chapter 17",
@@ -115,7 +115,7 @@
       "totalPages": 18,
       "pages": 18,
       "locked": false,
-      "views": 5
+      "views": 6
     },
     "25": {
       "title": "Chapter 25",
@@ -125,7 +125,7 @@
       "totalPages": 18,
       "pages": 18,
       "locked": false,
-      "views": 5
+      "views": 6
     },
     "26": {
       "title": "Chapter 26",
@@ -135,7 +135,7 @@
       "totalPages": 17,
       "pages": 17,
       "locked": false,
-      "views": 5
+      "views": 7
     },
     "27": {
       "title": "Chapter 27",
@@ -145,7 +145,7 @@
       "totalPages": 19,
       "pages": 19,
       "locked": false,
-      "views": 14
+      "views": 15
     },
     "20.5": {
       "title": "Chapter 20.5",
@@ -175,7 +175,7 @@
       "totalPages": 1,
       "pages": 1,
       "locked": false,
-      "views": 9
+      "views": 10
     },
     "27.7": {
       "title": "Chapter 27.7",
@@ -185,7 +185,7 @@
       "totalPages": 1,
       "pages": 1,
       "locked": false,
-      "views": 11
+      "views": 13
     },
     "27.8": {
       "title": "Chapter 27.8",
@@ -195,7 +195,7 @@
       "totalPages": 1,
       "pages": 1,
       "locked": false,
-      "views": 16
+      "views": 17
     },
     "27.9": {
       "title": "Chapter 27.9",
@@ -205,7 +205,7 @@
       "totalPages": 1,
       "pages": 1,
       "locked": false,
-      "views": 30
+      "views": 35
     },
     "27.10": {
       "title": "Chapter 27.10",
@@ -215,9 +215,9 @@
       "totalPages": 4,
       "pages": 4,
       "locked": false,
-      "views": 28
+      "views": 34
     }
   },
-  "lastUpdated": "2025-12-15T00:12:16+07:00",
+  "lastUpdated": "2025-12-16T00:20:34+07:00",
   "lastChapterUpdate": "2025-12-13T18:48:16+07:00"
 }
