@@ -15,7 +15,7 @@
       "Slice of Life"
     ],
     "status": "HIATUS",
-    "views": 200,
+    "views": 204,
     "links": {
       "mangadex": "https://mangadex.org/title/caa197bb-990e-4f59-bc6f-f20e42015d01/gotou-san-wa-furimukasetai",
       "raw": "https://bookwalker.jp/series/310103/list/"
@@ -35,7 +35,7 @@
       "totalPages": 18,
       "pages": 18,
       "locked": false,
-      "views": 41
+      "views": 43
     },
     "17": {
       "title": "Chapter 17",
@@ -45,7 +45,7 @@
       "totalPages": 23,
       "pages": 23,
       "locked": false,
-      "views": 10
+      "views": 12
     },
     "18": {
       "title": "Chapter 18",
@@ -55,7 +55,7 @@
       "totalPages": 15,
       "pages": 15,
       "locked": false,
-      "views": 8
+      "views": 10
     },
     "19": {
       "title": "Chapter 19",
@@ -65,7 +65,7 @@
       "totalPages": 19,
       "pages": 19,
       "locked": false,
-      "views": 7
+      "views": 8
     },
     "20": {
       "title": "Chapter 20",
@@ -75,7 +75,7 @@
       "totalPages": 22,
       "pages": 22,
       "locked": false,
-      "views": 10
+      "views": 11
     },
     "21": {
       "title": "Chapter 21",
@@ -165,7 +165,7 @@
       "totalPages": 4,
       "pages": 4,
       "locked": false,
-      "views": 60
+      "views": 61
     },
     "27.5": {
       "title": "Chapter 27.5",
@@ -218,6 +218,6 @@
       "views": 48
     }
   },
-  "lastUpdated": "2025-12-23T00:13:32+07:00",
+  "lastUpdated": "2025-12-24T00:15:30+07:00",
   "lastChapterUpdate": "2025-12-13T18:48:16+07:00"
 }
